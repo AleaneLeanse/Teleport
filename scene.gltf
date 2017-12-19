@@ -123,16 +123,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Teleport_emissive.png"
+      "uri": "Teleport_emissive.png"
     },
     {
-      "uri": "textures/Teleport_metallicRoughness.png"
+      "uri": "Teleport_metallicRoughness.png"
     },
     {
-      "uri": "textures/Teleport_normal.png"
+      "uri": "Teleport_normal.png"
     },
     {
-      "uri": "textures/Teleport_baseColor.png"
+      "uri": "Teleport_baseColor.png"
     }
   ],
   "materials": [
